@@ -1,0 +1,6 @@
+{
+  "name": "Rauf Browser",
+  "description": "Fast, minimalist Chromium-based Android web browser with multi-tab management, incognito privacy mode, bookmarks, history, download manager, and Gemini AI browsing intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

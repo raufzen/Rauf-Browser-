@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Rauf Browser</string>
+    <string name="brand_wordmark">RAUF BROWSER</string>
+    <string name="developer_name">RAUF</string>
+    <string name="tagline_browser">Clean. Fast. Private.</string>
+
+    <!-- Navigation & Omnibox -->
+    <string name="omnibox_placeholder">Search Google or type URL</string>
+    <string name="omnibox_incognito_placeholder">Search privately or enter URL</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_forward">Navigate forward</string>
+    <string name="cd_reload">Reload page</string>
+    <string name="cd_stop">Stop loading</string>
+    <string name="cd_home">Go to home screen</string>
+    <string name="cd_tabs">Open tab switcher</string>
+    <string name="cd_menu">Open browser menu</string>
+    <string name="cd_ai_assist">Open Rauf.ai</string>
+    <string name="cd_security_https">Secure HTTPS connection</string>
+    <string name="cd_security_http">Unencrypted HTTP connection</string>
+    <string name="cd_bookmark_add">Add bookmark</string>
+    <string name="cd_bookmark_remove">Remove bookmark</string>
+    <string name="cd_share">Share page</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_close">Close</string>
+
+    <!-- Incognito honesty notice -->
+    <string name="incognito_title">You have gone Incognito</string>
+    <string name="incognito_disclaimer">Rauf Browser will not save your browsing history, cookies, site data, or form entries from private tabs once all private tabs are closed. Note: Incognito mode does NOT make you anonymous to the websites you visit, your employer or school, your network administrator, or your internet service provider.</string>
+
+    <!-- SSL Security -->
+    <string name="ssl_error_title">Your connection is not private</string>
+    <string name="ssl_error_body">Rauf Browser blocked this page because its SSL security certificate could not be verified. Attackers might be trying to steal passwords, messages, or payment data. For your protection, Rauf Browser never bypasses SSL certificate errors.</string>
+    <string name="ssl_go_back">Back to safety</string>
+
+    <!-- Network -->
+    <string name="offline_banner">You are offline. Showing cached data where available.</string>
+</resources>
